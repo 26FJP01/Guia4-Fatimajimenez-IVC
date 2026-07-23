@@ -2,9 +2,8 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Nombre: Fatima Jimenez\n" +
-           "Grado: IVC - Clave:15\n" +
-           "===CONVERSIONES===");
+        Console.WriteLine("Nombre: Fatima Jimenez-Grado: IVC - Clave:15");
+        Console.WriteLine  ("===CONVERSIONES===");
         double metros, resultado;
         Console.Write("Dame una medida en metros: ");
         metros = double.Parse(Console.ReadLine());
