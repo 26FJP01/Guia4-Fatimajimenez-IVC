@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("=======DATOS ACADEMICOS========");
-        Console.WriteLine("Nombre: Fatima Jimenez\n" + "Grado: IVC - Clave:15\n");
+        Console.WriteLine("Nombre: Fatima Jimenez-Grado: IVC - Clave:15\n");
         Console.Write("Introduce una frase: ");
         string frase = Console.ReadLine();
         string fraseInvertida = "";
