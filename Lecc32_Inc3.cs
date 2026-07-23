@@ -2,8 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Nombre: Fatima Jimenez\n" +
-                           "Grado: IVC - Clave:15\n");
+        Console.WriteLine("Nombre: Fatima Jimenez-Grado: IVC - Clave:15\n");
         char opcion;
         do
         {
